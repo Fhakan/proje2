@@ -6,5 +6,7 @@ public class ilk {
         System.out.println("ikinci");
 
         System.out.println("mustafa sedat aksoy deneme :)");
+
+        System.out.println("yeniden yolladım ");
     }
 }
