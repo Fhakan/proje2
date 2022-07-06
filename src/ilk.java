@@ -4,7 +4,5 @@ public class ilk {
 
         System.out.println("hakan saydam");
         System.out.println("ikinci");
-        System.out.println("Ertugrul deneme1");
-
     }
 }
