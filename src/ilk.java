@@ -3,5 +3,6 @@ public class ilk {
 
 
         System.out.println("hakan saydam");
+        System.out.println("ikinci");
     }
 }
