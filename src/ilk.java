@@ -18,6 +18,7 @@ public class ilk {
         System.out.println("Samet 2");
         System.out.println("Ertugrul");
         System.out.println("Ertugrul2");
+        System.out.println("huseyin deneme");
 
 
     }
