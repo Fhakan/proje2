@@ -4,6 +4,6 @@ public class ilk {
 
         System.out.println("hakan saydam");
         System.out.println("ikinci");
-        System.out.println("Ertugrul");
+        System.out.println("Ertugrul deneme");
     }
 }
