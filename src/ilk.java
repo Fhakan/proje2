@@ -5,5 +5,6 @@ public class ilk {
         System.out.println("hakan saydam");
         System.out.println("ikinci");
         System.out.println("samet");
+        System.out.println("Samet 2");
     }
 }
