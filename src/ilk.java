@@ -10,5 +10,6 @@ public class ilk {
         System.out.println("cihan kod satırı");
         System.out.println("cihan 2");
         System.out.println("cihan3");
+        System.out.println("deneme cihan");
     }
 }
