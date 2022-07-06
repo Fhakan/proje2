@@ -7,5 +7,6 @@ public class ilk {
         System.out.println("metin deneme");
         System.out.println("metin master deneme");
         System.out.println("Ertugrul deneme2");
+        System.out.println("cihan kod satırı");
     }
 }
