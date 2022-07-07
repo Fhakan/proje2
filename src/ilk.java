@@ -20,6 +20,10 @@ public class ilk {
         System.out.println("Ertugrul2");
         System.out.println("huseyin deneme");
 
+        int count=45;
+        int extrnd=128;
+        System.out.println("sonuç= " +(extrnd-count));
+
 
     }
 }
